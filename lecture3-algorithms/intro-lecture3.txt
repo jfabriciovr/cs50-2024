@@ -1,0 +1,14 @@
+Algorithms
+https://www.youtube.com/watch?v=4oqjcKenCH8
+
+
+
+Slower
+
+O(n2)
+O(n log n)
+O(n) --------- Linear serch
+O(log n) ----- Binary serch
+O(1)
+
+Faster

@@ -1,0 +1,28 @@
+
+CS50 x 2023 - Lecture 1
+https://www.youtube.com/watch?v=ywg7cW0Txs4&t=2092s
+
+
+source code
+    |
+    |
+    \/
+ __________
+|          |
+| compiler |
+|__________|
+    |
+    |
+    \/
+machine code
+
+correctness
+design: more subjective, readable
+style: aesthetics
+
+Visual Studio Code (cloud version)
+code.cs50.io
+
+code hello.c // creates a file to star coding, this is only for the cs50 course
+
+
